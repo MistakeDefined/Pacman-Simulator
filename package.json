@@ -4,7 +4,7 @@
   "description": "Pacman simulation using nodejs",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint './src/**/*' './tests/**/*' --fix",
+    "lint:fix": "eslint './src/**/*' './tests/**/*' --fix",
     "test": "jest --watchAll"
   },
   "keywords": [
